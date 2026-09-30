@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://bar-ranca-ptuj.si/</loc>
+    <image:image>
+      <image:loc>https://static.readdy.ai/image/610b801a81a299b5cf2b47908013d228/02ea56fb5bde32a87c58a33cb8276a9e.png</image:loc>
+      <image:title>Bar Ranca Ptuj</image:title>
+      <image:caption>Bar ob Ptujskem jezeru</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://bar-ranca-ptuj.si/ponudba</loc>
+  </url>
+</urlset>

@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://bar-ranca-ptuj.si/sitemap.xml
